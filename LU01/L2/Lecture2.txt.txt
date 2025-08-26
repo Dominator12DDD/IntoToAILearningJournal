@@ -1,0 +1,27 @@
+Unit 1 Lecture 2 - AI Terms
+
+Algorithm: A set of rules that a machine can follow to learn how to do a task. Unlike AI, it can be determined.
+
+Bias: Assumptions made by a model that simplify the process of learning to do its assigned task. The creators behind AI can be biased, making it also biased.
+
+Big Data: Datasets that are too large or complex to be used by traditional data processing applications.
+
+Black Box: A system whose internal workings are opaque, making it not very transparent or hard for people to understand
+
+Context Window: is the maximum number of tokens an AI can process and consider when generating a response.
+
+Generative AI: is an advanced technological approach that enables the creation of content including, text, images, and videos
+
+Hallucination: when AI is making something up. Inaccurate or illogical responses.
+
+Large Language Model (LLM): neural networks are known as LLM, they work by forecasting word sequences.
+
+Meta Prompt/System Prompt: The set of instructions given to the AI behind the scenes before an interaction begins
+
+Prompt Engineering: the practice of designing effective prompts to guide an Ai model's output.
+
+Temperature (AI Temperature): temperature settings controls how deterministic or creative an Ai model's output is.
+
+Token: Common sequences of characters found in a set of text, 4 characters per token. (used to have more on older models, less now to save money)
+
+
