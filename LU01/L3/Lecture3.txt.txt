@@ -1,0 +1,17 @@
+Unit 1 Lecture 3
+
+AI Ethics
+
+AI client runs off someone else's server, not on your own phone or laptop
+Whenever you are on the internet, you leave a carbon footprint. 
+AI is free because of market share, in future possibly cost money. (similar to uber in 2015)
+AI trained on massive data links. AI taking public information from data links, some free, some not so free. Just because something is publicly available, doesn't make it free. Creators used public information to train AI without people knowing.
+AI companies use lot of energy and water. Giant data servers are water cooled.
+Very few laws to keep people accountable for AI stealing information and overuse of energy/water.
+Not all AI information will be true, some will be false or "hallucinations".
+That's because it starts consuming AI generated information, instead of real information.
+People are bias, not machines. But their bias can rub off onto their creations making them biased. It can be intentional and unintentional. There is no unbiased opinion, everyone is biased.
+AI Psychosis: people with schizophrenic tendencies tend to have different responses compared to people without schizophrenia. Overtime AI can break if messaging for a long time, giving into peoples fantasies or crazy beliefs.
+
+
+ 
