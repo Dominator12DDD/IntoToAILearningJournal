@@ -1,0 +1,11 @@
+Unit 1 Lecture 4
+
+AI Models
+
+Context Window: AI short term memory
+Different AI's cost different amounts per token
+"free" - users have the freedom to run, copy, distribute, study, change, and improve the software.
+If you are able to view and access code from another company it is open source, if not they are not open source. AI companies have am incentive to lie about their energy consumption but the reason for has yet to come out yet.
+Tokens are used to break information down for AI's and predict the next info. Generating new tokens cost more than old ones.
+Companies vary in amount of tokens per output.
+AI will need to improve every year or it will collapse on itself
