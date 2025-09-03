@@ -1,0 +1,36 @@
+Unit 2 Lecture 1
+
+Generative AI - Text
+
+Prompt Engineering - How can I get the AI to do what I want with the most efficient/shortest input.
+
+Prompt - natural language text that requests the generative AI to perform a specific task.
+
+Prompt Pros:
+- Improved user experience
+- Improved Flexibility
+- Cost Efficient
+
+Prompt Steps:
+
+Task:
+Persona(Who the AI is)
+Format - Output type
+
+Context:
+Good - Give me some ideas for a birthday present. Under $30.
+Great - Give me 5 ideas for a birthday present. My budget is $30. The gift is for a 29 year old who loves winter sports. And has recently switched to snowboarding from skiing.
+
+Reference: 
+Additional Input data, ideas
+
+Evalute
+Is it a good present? Is it under $30? Does it meet the requirements?
+
+Iterate
+Go through errors and have changes/fixes with AI (Loops back around to Task)
+
+Break down prompts to get better outputs.
+AI can get stuck in a rut/ a loop. Start a new conversation or reword the task.
+Adding constraints creates more tailored outputs.
+
