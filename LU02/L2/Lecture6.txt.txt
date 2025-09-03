@@ -1,0 +1,15 @@
+Unit 2 Lecture 2 - Work Tasks
+
+"If you put in garbage, it's going to put out garbage."
+Follow these for better output: 1.Persona 2.Context 3.Task
+
+Complex Prompt: all information bunched together in one prompt
+
+Simple Prompt: One large prompt split up into smaller prompts.
+
+Doing it step by step into smaller prompts makes it easier for the AI
+to understand and to receive a better output.
+
+Chain of thought/Chain of summary
+
+(Blackout happened so we didn't finish rest of notes)
