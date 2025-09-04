@@ -1,0 +1,9 @@
+Unit 2 Lecture 3 - Chain of Thought
+
+Chain of Thought - Asking an AI how it got that answer. It basically cheats/lies about how it got that answer, but can help next prompt be more accurate next time.
+
+Chain of Density - reducing text you want summarized. You keep reducing size of text till you have a concise summary. Boiling down a large piece of text to a small summary.
+
+RAG - going beyond the vanilla limitations of generative AI (LLM)
+
+RAG stands for Retrieval-Augmented Generation
