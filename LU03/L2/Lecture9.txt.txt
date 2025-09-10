@@ -1,0 +1,14 @@
+Unit 3 Lecture 2 - Media Creation Tools
+
+(For future AI slop video)
+
+Kdenlive - video editing software
+Put clip into project, turn into proxy (sizes down clip without losing quality), snipping, effects, audio, etc.
+
+Handbrake - compression, sizes down the videos immensely
+
+Gimp - Image editing
+
+
+
+
