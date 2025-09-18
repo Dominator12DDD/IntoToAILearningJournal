@@ -1,0 +1,7 @@
+Unit 4 Lecture 2: Cookie Clicker
+
+Worked with AI to generate a cookie clicker AI slop game.
+We started with assets and asked it to generate the game. 
+We then asked it to add a auto clicker system with a grandma feature
+that increased the auto clicker with each one bought. Then finally we
+added an achievements system with bars for progress.

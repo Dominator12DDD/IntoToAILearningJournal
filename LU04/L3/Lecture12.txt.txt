@@ -1,0 +1,12 @@
+Unit 4 Lecture 3 - Computer bugs
+
+Bug - A problem with the coding that causes a program
+to not work. Term originated from when an actual bug in a computer caused in to not work.
+
+AI does not understand what is wrong when you give it code,
+it is good at giving solutions to fix code. AI can try to attempt to fix code, but has a tendency to just "turn the code off". AI loves making up methods that don't exist. It does not C#, does not 
+know java, it just knows how to guess what the next code should be.
+
+AI is the best at fixing Syntax errors.
+It also is good at fixing logic errors.
+It is good at giving solutions to problems.
