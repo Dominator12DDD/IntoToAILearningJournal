@@ -1,0 +1,8 @@
+Unit 4 Lecture 1 - Vibe Coding
+
+Vibe coding is where you kind of go with the flow
+and just type stuff out. It isn't structured or
+aiming for anything. Sometimes it isn't really
+code more just experimenting to just see what
+happens. People vibe code then pay others to actually
+code what they wrote or to fix mistakes.
