@@ -1,0 +1,23 @@
+Unit 5 Lecture 1 - Hardware
+
+What hardware is required to run AI?
+
+Hardware - Machinery that runs the computer.
+
+Motherboard - circuit board, connects different components. Most important component is the CPU.
+
+CPU - Does all the thinking and computing. Everything that thinks in the computer connects to the CPU "We as apes made sand think" Luke Matheis 2025
+
+Power Supply - converts the power, turns energy into heat
+
+RAM - Random Access Memory, volatile, turning computer off an on clears RAM
+
+Storage - stores data (Hard disk drive, solid state drive)
+
+Expansion drives - plug ins
+
+GPU - Graphic Processing Unit, does everything the CPU doesn't want to do
+
+Raspberry Pi - mini computer
+
+

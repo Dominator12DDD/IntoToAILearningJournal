@@ -1,0 +1,8 @@
+Unit 5 Lecture 2 - Virtualization
+
+Virtualization - the process of creating software-based version of something
+
+Hypervisors
+Type 1: Installed directly on top of physical server/ BM
+Type 2: Sits between physical server and hypervisor/ Hosted. Have higher latency due to no being directly connected
+
