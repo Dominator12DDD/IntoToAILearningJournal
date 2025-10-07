@@ -1,0 +1,7 @@
+Unit 6 Lecture 1 - Docker
+
+Docker runs software portably.
+Docker containers virtualizes the os which allows things to run easier.
+Anybody who has Docker, despite their setup, will be able to run your app
+
+Physical Hardware - Operating System - Container Runtime - Containers

@@ -1,0 +1,5 @@
+Unit 6 Lecture 2 - Installing AI Locally
+
+Installing Ollama to run AI locally
+
+Qwen3, language model used for our AI
